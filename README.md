@@ -4,6 +4,8 @@
 
 Este proyecto es un bot de Telegram diseñado para mantenerte al día con las noticias más frescas y la info más importante sobre trading. La idea es que, con esta herramienta, puedas estar al tanto de todo lo que pasa en el mercado de una manera rápida y sencilla, para que puedas tradear con más eficacia, seguridad y confianza.
 
+Ademas con el uso del mismo vamos a ir recaudando datos del chat y externos para poder hacer un analisis de sentimiento de las noticias y poder predecir el comportamiento del mercado. si no eetendes, no importa, ya lo vas a entender, va a ser tu copilot del tradeo.
+
 ## ¿Qué hace el bot?
 
 - **Noticias al toque:** Te manda notificaciones con las últimas noticias del mercado financiero.
